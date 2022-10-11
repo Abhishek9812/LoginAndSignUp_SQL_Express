@@ -1,1 +1,1 @@
-# LoginAndSignUp_SQL_Express
+# Do npm install and then node index.js
